@@ -19,4 +19,3 @@ function moveDown()
     document.getElementById("number").innerHTML = i;
 }
 
-console.log("Pozz");
